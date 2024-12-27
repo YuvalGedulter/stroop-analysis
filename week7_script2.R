@@ -15,3 +15,4 @@ trial_data <- filtered_data |>
 print(trial_data)
 View(filtered_data)
 save(filtered_data, file = "C:/Users/97250/Documents/R_Projects/filtered_data.rdata")
+# 17 row, filtering the data, Yuval, 28.12.24
