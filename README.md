@@ -1,5 +1,5 @@
 # stroop-analysis
-## instractions
+## instructions
 '''R
 #example code R
 data <- read.csv("stroop.csv")
