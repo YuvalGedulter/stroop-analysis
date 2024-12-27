@@ -14,3 +14,4 @@ ggplot(task_raw_data, aes(x = task, y = mean_rt)) +
   xlab("Task") +
   ylab("Mean RT") +
   theme_minimal()
+# 16 rows, figure code, Yuval, 28.12.24
