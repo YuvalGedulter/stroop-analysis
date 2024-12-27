@@ -4,4 +4,4 @@
 # קוד לדוגמה ב-R
 data <- read.csv("stroop.csv")
 summary(data)
-(Rplot.stroop.analysis.png)[stroop figure]!
+![stroop figure](Rplot.stroop.analysis.png)
