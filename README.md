@@ -1,1 +1,2 @@
 # stroop-analysis
+## הוראות
