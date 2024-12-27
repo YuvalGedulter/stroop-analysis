@@ -27,3 +27,4 @@ contrasts(raw_data$task)
 contrasts(raw_data$congruency)
 View(raw_data)
 save(raw_data, file = "C:/Users/97250/Documents/R_Projects/raw_data.rdata")
+# 29 rows, create united data frame, Yuval, 28.12.24
